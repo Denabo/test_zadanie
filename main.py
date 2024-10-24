@@ -17,6 +17,7 @@ def find_max_sum_number():
             max_number = num
 
     print(f"Число с максимальной суммой цифр: {max_number}")
+    input()
 
 
 if __name__ == "__main__":
